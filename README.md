@@ -1,5 +1,5 @@
 
-#![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=@fossil___95&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=@fossil___95&fontSize=90&fontcolor=auto)
 
 - 🔭 I’m currently working on : Flutter 3.0 and Figma(UI/UX)(and React native) Developer
 - 🌱 I’m currently learning : Flutter(and React native) and API 
