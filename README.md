@@ -26,7 +26,7 @@
 <p align="left">
 </p>
 
-<a href="https://grape-tumbleweed-a41.notion.site/62bfad4432634fe3bb7edfadfc6055d0" target="_blank">
+<a href="https://grape-tumbleweed-a41.notion.site/62bfad4432634fe3bb7edfadfc6055d0" target="_blank" rel="noreferrer">
    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8KTEj%2Fbtrn83lyP6L%2FTIxBbjy6ym4i61EF0N4j3K%2Fimg.jpg" alt="Dong-jun_notion" width=auto height="40" />
 </a>
 
