@@ -34,25 +34,17 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
 -->
     
 <table>
- <tr align="center">
+ <tr align="center" height = "150">
   <th width = 340>
    
-<h5>
-
-- My Youtube Channel
-
-</h5>
+<h5>● My Youtube Channel</h5>
 
 <a href = "https://www.youtube.com/channel/UCLsK9Zy_W62bs09pPCjFWYw" target = "_blank_" rel ="noopener noreferrer" >
- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_167938.png" alt="youtube" width = auto height = "90" vertical-align: middle; /> </a>
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_167938.png" alt="youtube" width = auto height = "100" vertical-align: middle; /> </a>
    
 </th>
 <th width = 340>
-<h5>
-
-- Introduce My Self in Notion
-
-</h5>
+<h5>● Introduce My Self in Notion</h5>
 
 <a target="_blank" href="https://grape-tumbleweed-a41.notion.site/62bfad4432634fe3bb7edfadfc6055d0" rel="noopener noreferrer" >
  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8KTEj%2Fbtrn83lyP6L%2FTIxBbjy6ym4i61EF0N4j3K%2Fimg.jpg" alt="Dong-jun_notion" width=auto height="100" /> </a>
@@ -60,11 +52,7 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
 </th>
 <th width = 340>
  
-<h5>
-
-- My Github
-
-</h5>
+<h5>● My Github</h5>
 
 <a href = "https://github.com/LeeHwaSeok" target = "_blank_" rel ="noopener noreferrer" >
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width = auto height = "100" vertical-align: middle; /> </a>
