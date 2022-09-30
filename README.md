@@ -12,3 +12,4 @@
 - 🎬 My_Youtube : https://www.youtube.com/channel/UCLsK9Zy_W62bs09pPCjFWYw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHwaSeok)](https://github.com/LeeHwaSeok/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHwaSeok)](https://github.com/LeeHwaSeok/github-readme-stats)
