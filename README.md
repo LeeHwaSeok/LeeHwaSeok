@@ -83,7 +83,7 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHwaSeok)](https://github.com/LeeHwaSeok/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHwaSeok)](https://github.com/LeeHwaSeok/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHwaSeok)](https://github.com/LeeHwaSeok)
 
 
 
