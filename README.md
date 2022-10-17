@@ -5,7 +5,7 @@
 <h1 align="left">About Me</h1>
 <h5>
 
-- 🔭 I’m currently working on : Flutter 3.0 and Figma(UI/UX)(and React native) Developer
+- 🔭 I’m currently working on : Flutter 3.0, React native and Figma(UI/UX) Developer
 
 - 🌱 I’m currently learning : Flutter(and React native) and API 
 
