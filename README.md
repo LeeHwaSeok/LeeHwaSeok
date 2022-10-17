@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on : Flutter 3.0, React native and Figma(UI/UX) Developer
 
-- 🌱 I’m currently learning : Flutter(and React native) and API 
+- 🌱 I’m currently learning : Flutter, React native and API 
 
 - 👯 I’m looking to collaborate on Git
 
