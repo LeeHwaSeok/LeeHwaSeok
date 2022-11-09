@@ -46,7 +46,7 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
 <th width = 340>
 <h5>● Introduce My Self in Notion</h5>
 
-<a target="_blank" href="https://grape-tumbleweed-a41.notion.site/62bfad4432634fe3bb7edfadfc6055d0" rel="noopener noreferrer" >
+<a target="_blank" href="https://grape-tumbleweed-a41.notion.site/7d559049bda449cfb4bb9bb02835519d" rel="noopener noreferrer" >
  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8KTEj%2Fbtrn83lyP6L%2FTIxBbjy6ym4i61EF0N4j3K%2Fimg.jpg" alt="Dong-jun_notion" width=auto height="100" /> </a>
 
 </th>
@@ -70,7 +70,7 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="Flutter" width = auto height = "80" vertical-align: middle; /> </a>
 <a href = "https://grape-tumbleweed-a41.notion.site/Figma-a4252962e2fd4544a681a056a8605766" target = "_blank_" rel ="noopener noreferrer" >
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width = auto height = "80" vertical-align: middle; /> </a>
-<a href = "https://grape-tumbleweed-a41.notion.site/7d559049bda449cfb4bb9bb02835519d" target = "_blank_" rel ="noopener noreferrer" >
+<a href = "https://grape-tumbleweed-a41.notion.site/React-Native-783185a491e941f386aef932d98db503" target = "_blank_" rel ="noopener noreferrer" >
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="github" width = auto height = "80" vertical-align: middle; /> </a> 
 
 
