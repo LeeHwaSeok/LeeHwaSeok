@@ -70,7 +70,7 @@ alt : 이미지 전송 실패시 사용할 텍스트 내용
  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="Flutter" width = auto height = "80" vertical-align: middle; /> </a>
 <a href = "https://grape-tumbleweed-a41.notion.site/Figma-a4252962e2fd4544a681a056a8605766" target = "_blank_" rel ="noopener noreferrer" >
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width = auto height = "80" vertical-align: middle; /> </a>
-<a href = "https://grape-tumbleweed-a41.notion.site/React-Native-783185a491e941f386aef932d98db503" target = "_blank_" rel ="noopener noreferrer" >
+<a href = "https://grape-tumbleweed-a41.notion.site/7d559049bda449cfb4bb9bb02835519d" target = "_blank_" rel ="noopener noreferrer" >
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="github" width = auto height = "80" vertical-align: middle; /> </a> 
 
 
